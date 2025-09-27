@@ -1,0 +1,2 @@
+# battery
+pmset -g pslog | grep remaining
